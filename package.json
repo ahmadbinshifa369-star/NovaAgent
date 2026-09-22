@@ -5,6 +5,17 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "openai": "^7.20.0"
+  }
+}{
+  "name": "novaagent",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "openai": "^7.20.0"
   }
 }
